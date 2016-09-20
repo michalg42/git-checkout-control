@@ -1,0 +1,15 @@
+{
+  "name": "git-checkout-control",
+  "main": "./lib/git-checkout-control",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/git-checkout-control",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

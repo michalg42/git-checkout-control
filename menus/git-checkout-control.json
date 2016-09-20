@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Git Checkout Control",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "git-checkout-control:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
